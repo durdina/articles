@@ -1,3 +1,0 @@
-# Dynatrace workshop
-
-Notes
